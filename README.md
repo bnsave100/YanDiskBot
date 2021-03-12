@@ -4,7 +4,7 @@ Basic Yandex Disk Uploader Telegram Bot.
 ## Install
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bnsave100/YanDiskBot)
 
 ### Hard Way
 
